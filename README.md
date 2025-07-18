@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Portifólio da Lud</h2>
+  <h2>Portfólio da Lud</h2>
 </div>
 
 <div align="center">
